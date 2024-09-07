@@ -11,13 +11,13 @@
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_4080A19F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4080A19F","objectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":1586.0,},
+        {"$GMRInstance":"v1","%Name":"inst_4080A19F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4080A19F","objectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1728.0,"y":1184.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"CollisionTiles","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"CollisionTiles","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":16,"SerialiseWidth":40,"TileCompressedData":[
-          -306,-2147483648,1,0,-79,-2147483648,2,34,0,-25,-2147483648,4,34,-2147483648,-2147483648,1,-7,2,1,3,
-          -3,-2147483648,1,34,-22,-2147483648,1,34,-4,-2147483648,1,13,-8,14,1,3,-14,-2147483648,1,0,-4,-2147483648,
-          1,1,-3,2,1,3,-5,-2147483648,1,1,-9,14,4,15,-2147483648,-2147483648,1,-3,2,1,3,-7,-2147483648,1,1,-4,
-          2,-5,14,-5,2,-10,14,4,15,0,0,13,-4,14,-5,2,3,3,-2147483648,13,-24,14,4,15,0,0,13,-9,14,3,15,-2147483648,
+          -306,-2147483648,1,0,-79,-2147483648,2,34,0,-19,-2147483648,1,0,-3,-2147483648,6,0,2,2,0,-2147483648,
+          1,-7,2,1,3,-3,-2147483648,1,34,-22,-2147483648,1,0,-4,-2147483648,1,13,-8,14,1,3,-14,-2147483648,1,0,
+          -4,-2147483648,1,1,-3,2,1,3,-5,-2147483648,1,1,-9,14,4,15,-2147483648,-2147483648,1,-3,2,1,3,-7,-2147483648,
+          1,1,-4,2,-5,14,-5,2,-10,14,4,15,0,0,13,-4,14,-5,2,3,3,-2147483648,13,-24,14,4,15,0,0,13,-9,14,3,15,-2147483648,
           25,-24,14,4,15,0,0,25,-9,14,2,27,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet_Ground","path":"tilesets/TileSet_Ground/TileSet_Ground.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRAssetLayer":"","%Name":"Foreground","assets":[

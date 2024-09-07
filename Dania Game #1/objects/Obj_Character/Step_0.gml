@@ -1,3 +1,8 @@
+/// @DnDAction : YoYo Games.Movement.Wrap_Room
+/// @DnDVersion : 1
+/// @DnDHash : 2983B07C
+move_wrap(1, 1, 0);
+
 /// @DnDAction : YoYo Games.Common.Temp_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 62F5A027

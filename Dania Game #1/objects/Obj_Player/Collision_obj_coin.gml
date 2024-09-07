@@ -2,12 +2,12 @@
 /// @DnDVersion : 1
 /// @DnDHash : 3C720FC2
 /// @DnDApplyTo : other
-/// @DnDArgument : "xpos" "other.x"
+/// @DnDArgument : "xpos" "Other.x"
 /// @DnDArgument : "ypos" "other.y"
 /// @DnDArgument : "objectid" "obj_coin_collected_effect"
 /// @DnDSaveInfo : "objectid" "obj_coin_collected_effect"
 with(other) {
-	instance_create_layer(other.x, other.y, "Instances", obj_coin_collected_effect); 
+	instance_create_layer(Other.x, other.y, "Instances", obj_coin_collected_effect); 
 }
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
